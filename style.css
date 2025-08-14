@@ -14,9 +14,7 @@
     --glass-bg: rgba(17, 17, 17, 0.8);
     --glass-border: rgba(255, 0, 64, 0.3);
 
-    /* Variável para o nome - MUDE AQUI! */
     --girlfriend-name: "Livia";
-    /* ← COLOQUE O NOME AQUI */
 }
 
 * {
@@ -897,4 +895,5 @@ body {
     100% {
         filter: drop-shadow(0 0 15px var(--neon-red)) drop-shadow(0 0 20px var(--gold));
     }
+
 }
